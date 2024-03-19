@@ -1,0 +1,35 @@
+name: Merge M3U Files
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 时间 00:00 运行
+  push:
+    branches:
+      - main # 或你希望触发该工作流的分支
+
+jobs:
+  merge-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Download external M3U file
+        run: |
+          curl -L -o external.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+
+      - name: Merge M3U files
+        run: |
+          # 复制第一个文件（包含头部信息）到新文件
+          cp external.m3u merged.m3u
+          # 追加第二个文件的内容，但去除头部信息
+          tail -n +2 migu.m3u >> merged.m3u
+
+      - name: Commit and push merged M3U file
+        run: |
+          git config --global user.email "wxn233@outlook.com"
+          git config --global user.name "xuning"
+          git add merged.m3u
+          git commit -m "Update merged M3U file" -a || exit 0 # 如果没有变更，则退出
+          git push
