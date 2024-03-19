@@ -32,4 +32,6 @@ jobs:
           git config --global user.name "xuning"
           git add merged.m3u
           git commit -m "Update merged M3U file" -a || exit 0 # 如果没有变更，则退出
-          git push
+          # 以下命令使用了存储在 Secrets 中的 GitHub 访问令牌
+          git push --set-upstream https://${{ secrets.UPDATEM3U }}@github.com/xuningwang/IPTV.git main
+
