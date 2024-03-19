@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download external M3U file
         run: |
@@ -26,12 +26,15 @@ jobs:
           # 追加第二个文件的内容，但去除头部信息
           tail -n +2 migu.m3u >> merged.m3u
 
-      - name: Commit and push merged M3U file
+      - name: Commit merged M3U file
         run: |
           git config --global user.email "wxn233@outlook.com"
-          git config --global user.name "xuning"
+          git config --global user.name "github-actions[bot]"
           git add merged.m3u
           git commit -m "Update merged M3U file" -a || exit 0 # 如果没有变更，则退出
-          # 以下命令使用了存储在 Secrets 中的 GitHub 访问令牌
-          git push --set-upstream https://${{ secrets.UPDATEM3U }}@github.com/xuningwang/IPTV.git main
-
+          
+      - name: ush changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.UPDATEM3U }}
+          branch: main
