@@ -46,33 +46,70 @@ def extract_tvg_info_from_m3u(m3u_data):
     return tvg_string,tvg_dict
 
 # 定义频道TVXML数据API数据获取函数
-def epg_api_data(tvg_id,tvg_name):
-    epg_date=requests.get(epg1_api+tvg_name,headers=header)
-    if '精彩节目-暂未提供节目预告信息' in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
-        print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
-        epg_date=requests.get(epg2_api+tvg_name,headers=header)
-    json_data = epg_date.json()
+# def epg_api_data(tvg_id,tvg_name):
+#     epg_date=requests.get(epg1_api+tvg_name,headers=header)
+#     if '精彩节目-暂未提供节目预告信息' in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
+#         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
+#         epg_date=requests.get(epg2_api+tvg_name,headers=header)
+#     json_data = epg_date.json()
 
-    # 创建空字符串用于存放 epg 内容
-    xml_list = []
+#     # 创建空字符串用于存放 epg 内容
+#     xml_list = []
  
-    # 遍历该频道当天所有节目信息
-    for epg in json_data["epg_data"]:
-        if epg['start'] == '00:00' and epg['end'] == '23:59':   # 剔除错误数据，此处为00:00开始，23:59结束的节目-明显错误内容
-            print(tvg_name,'包含重复错误节目信息，已剔除') # 输出包含错误信息的频道名
-            continue           
+#     # 遍历该频道当天所有节目信息
+#     for epg in json_data["epg_data"]:
+#         if epg['start'] == '00:00' and epg['end'] == '23:59':   # 剔除错误数据，此处为00:00开始，23:59结束的节目-明显错误内容
+#             print(tvg_name,'包含重复错误节目信息，已剔除') # 输出包含错误信息的频道名
+#             continue           
         
-        start_time = f"{json_data['date'].replace('-', '')}{epg['start'].replace(':', '')}00 +0800"
-        end_time = f"{json_data['date'].replace('-', '')}{epg['end'].replace(':', '')}00 +0800"
-        title = epg["title"].replace("<", "《").replace(">", "》").replace("&", "&amp;") #替换xml文件中的一些禁用字符
+#         start_time = f"{json_data['date'].replace('-', '')}{epg['start'].replace(':', '')}00 +0800"
+#         end_time = f"{json_data['date'].replace('-', '')}{epg['end'].replace(':', '')}00 +0800"
+#         title = epg["title"].replace("<", "《").replace(">", "》").replace("&", "&amp;") #替换xml文件中的一些禁用字符
 
-        xml_list.append('<programme start=\"'+start_time+'\" stop=\"'+end_time+'\" channel=\"'+tvg_id+'\">\n')
-        xml_list.append('<title lang="zh">'+title+'</title><desc lang="zh"></desc>\n')
-        xml_list.append('</programme>\n')
+#         xml_list.append('<programme start=\"'+start_time+'\" stop=\"'+end_time+'\" channel=\"'+tvg_id+'\">\n')
+#         xml_list.append('<title lang="zh">'+title+'</title><desc lang="zh"></desc>\n')
+#         xml_list.append('</programme>\n')
 
-    xml_string = "".join(xml_list)
+#     xml_string = "".join(xml_list)
   
-    return xml_string
+#     return xml_string
+
+def epg_api_data(tvg_id, tvg_name):
+    try:
+        epg_response = requests.get(epg1_api + tvg_name, headers=header)
+        epg_response.raise_for_status()  # This will raise an exception for HTTP error codes
+
+        # Attempt to load JSON, and catch JSONDecodeError if it occurs
+        json_data = epg_response.json()
+        xml_list = []
+    
+        # 遍历该频道当天所有节目信息
+        for epg in json_data["epg_data"]:
+            if epg['start'] == '00:00' and epg['end'] == '23:59':   # 剔除错误数据，此处为00:00开始，23:59结束的节目-明显错误内容
+                print(tvg_name,'包含重复错误节目信息，已剔除') # 输出包含错误信息的频道名
+                continue           
+            
+            start_time = f"{json_data['date'].replace('-', '')}{epg['start'].replace(':', '')}00 +0800"
+            end_time = f"{json_data['date'].replace('-', '')}{epg['end'].replace(':', '')}00 +0800"
+            title = epg["title"].replace("<", "《").replace(">", "》").replace("&", "&amp;") #替换xml文件中的一些禁用字符
+
+            xml_list.append('<programme start=\"'+start_time+'\" stop=\"'+end_time+'\" channel=\"'+tvg_id+'\">\n')
+            xml_list.append('<title lang="zh">'+title+'</title><desc lang="zh"></desc>\n')
+            xml_list.append('</programme>\n')
+
+        xml_string = "".join(xml_list)
+    
+        return xml_string
+
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred: {http_err}")  # Output the HTTP error
+    except json.JSONDecodeError as json_err:
+        # Print the raw response text for inspection when JSON parsing fails
+        print(f"Raw response content: {epg_response.text}")
+        print(f"JSON parsing error: {json_err}")  # Output the JSON parsing error
+    except Exception as e:
+        print(f"An error occurred: {e}")  # Output any other exceptions
+
 
 m3u_data = fetch_m3u_data(m3u_url)
 
