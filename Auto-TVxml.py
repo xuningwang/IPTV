@@ -103,12 +103,15 @@ def epg_api_data(tvg_id, tvg_name):
 
     except requests.exceptions.HTTPError as http_err:
         print(f"HTTP error occurred: {http_err}")  # Output the HTTP error
+        return ""
     except json.JSONDecodeError as json_err:
         # Print the raw response text for inspection when JSON parsing fails
         print(f"Raw response content: {epg_response.text}")
         print(f"JSON parsing error: {json_err}")  # Output the JSON parsing error
+        return ""
     except Exception as e:
         print(f"An error occurred: {e}")  # Output any other exceptions
+        return ""
 
 
 m3u_data = fetch_m3u_data(m3u_url)
@@ -127,8 +130,11 @@ tvxml_list.append(tvg_info)
 for key in tvg_info_dict:
     xml_string = epg_api_data(key,tvg_info_dict[key])
     # time.sleep(0.1)
-    print(tvg_info_dict[key],'已完成')
-    tvxml_list.append(xml_string)
+    if xml_string is not None:
+        tvxml_list.append(xml_string)
+        print(tvg_info_dict[key],'已完成')
+    else:
+        print(f"Received None for channel {key}, {tvg_info_dict[key]}")
 
 tvxml_list.append('</tv>')
 tvxml_string = "".join(tvxml_list)
