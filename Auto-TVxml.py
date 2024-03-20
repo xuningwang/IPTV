@@ -46,41 +46,16 @@ def extract_tvg_info_from_m3u(m3u_data):
     return tvg_string,tvg_dict
 
 # 定义频道TVXML数据API数据获取函数
-# def epg_api_data(tvg_id,tvg_name):
-#     epg_date=requests.get(epg1_api+tvg_name,headers=header)
-#     if '精彩节目-暂未提供节目预告信息' in epg_date.text or tvg_name in '卡酷少儿 纪实科教':
-#         print(tvg_name,'的EPG节目信息在API1中不存在或不准确 已更换为API2')
-#         epg_date=requests.get(epg2_api+tvg_name,headers=header)
-#     json_data = epg_date.json()
-
-#     # 创建空字符串用于存放 epg 内容
-#     xml_list = []
- 
-#     # 遍历该频道当天所有节目信息
-#     for epg in json_data["epg_data"]:
-#         if epg['start'] == '00:00' and epg['end'] == '23:59':   # 剔除错误数据，此处为00:00开始，23:59结束的节目-明显错误内容
-#             print(tvg_name,'包含重复错误节目信息，已剔除') # 输出包含错误信息的频道名
-#             continue           
-        
-#         start_time = f"{json_data['date'].replace('-', '')}{epg['start'].replace(':', '')}00 +0800"
-#         end_time = f"{json_data['date'].replace('-', '')}{epg['end'].replace(':', '')}00 +0800"
-#         title = epg["title"].replace("<", "《").replace(">", "》").replace("&", "&amp;") #替换xml文件中的一些禁用字符
-
-#         xml_list.append('<programme start=\"'+start_time+'\" stop=\"'+end_time+'\" channel=\"'+tvg_id+'\">\n')
-#         xml_list.append('<title lang="zh">'+title+'</title><desc lang="zh"></desc>\n')
-#         xml_list.append('</programme>\n')
-
-#     xml_string = "".join(xml_list)
-  
-#     return xml_string
-
 def epg_api_data(tvg_id, tvg_name):
     try:
         epg_response = requests.get(epg1_api + tvg_name, headers=header)
         epg_response.raise_for_status()  # This will raise an exception for HTTP error codes
+        
+        # Replace tab characters with a space or another appropriate character
+        cleaned_text = epg_response.text.replace('\t', ' ')
 
-        # Attempt to load JSON, and catch JSONDecodeError if it occurs
-        json_data = epg_response.json()
+        # Now try parsing the cleaned text as JSON
+        json_data = json.loads(cleaned_text)
         xml_list = []
     
         # 遍历该频道当天所有节目信息
@@ -142,10 +117,3 @@ tvxml_string = "".join(tvxml_list)
 
 with open("tvxml.xml", "w", encoding="utf-8") as xml_file:
     xml_file.write(tvxml_string)
-
-#测试
-# xml_string = epg_api_data('A03','CNA')
-# time.sleep(0.3)
-# print(xml_string)
-# # with open("TVXML.xml", "a", encoding="utf-8") as xml_file:
-# #     xml_file.write(xml_string)
