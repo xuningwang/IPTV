@@ -9330,6 +9330,9 @@
 <programme start="20240320085500 +0800" stop="20240320103500 +0800" channel="黑莓电影">
 <title lang="zh">希望的另一面</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240320103500 +0800" stop="20240320121400 +0800" channel="黑莓电影">
+<title lang="zh">六扇门之玄武初现</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240320001000 +0800" stop="20240320002200 +0800" channel="黑莓动画">
 <title lang="zh">41_西行纪</title><desc lang="zh"></desc>
 </programme>
@@ -9422,6 +9425,9 @@
 </programme>
 <programme start="20240320101100 +0800" stop="20240320102500 +0800" channel="黑莓动画">
 <title lang="zh">16_百变校巴8</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320102500 +0800" stop="20240320104800 +0800" channel="黑莓动画">
+<title lang="zh">汪汪队立大功第3季15</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320000000 +0800" stop="20240320005000 +0800" channel="梨园">
 <title lang="zh">《少侠包公案》昝社钦4</title><desc lang="zh"></desc>
@@ -14640,6 +14646,9 @@
 <programme start="20240320094400 +0800" stop="20240320102900 +0800" channel="newtv海外剧场">
 <title lang="zh">10_扶摇</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240320102900 +0800" stop="20240320111400 +0800" channel="newtv海外剧场">
+<title lang="zh">11_扶摇</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240320002700 +0800" stop="20240320014400 +0800" channel="newtv中国功夫">
 <title lang="zh">封神：画圣归来</title><desc lang="zh"></desc>
 </programme>
@@ -14672,6 +14681,9 @@
 </programme>
 <programme start="20240320094400 +0800" stop="20240320101900 +0800" channel="newtv中国功夫">
 <title lang="zh">19_墓王之王</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320101900 +0800" stop="20240320105300 +0800" channel="newtv中国功夫">
+<title lang="zh">20_墓王之王</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320001000 +0800" stop="20240320005800 +0800" channel="newtv军旅剧场">
 <title lang="zh">28_红幡</title><desc lang="zh"></desc>
@@ -14711,6 +14723,9 @@
 </programme>
 <programme start="20240320093400 +0800" stop="20240320102100 +0800" channel="newtv军旅剧场">
 <title lang="zh">03_烽火孤儿</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320102100 +0800" stop="20240320110900 +0800" channel="newtv军旅剧场">
+<title lang="zh">04_烽火孤儿</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320000000 +0800" stop="20240320020000 +0800" channel="newtv精品萌宠">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -14808,6 +14823,9 @@
 <programme start="20240320095000 +0800" stop="20240320103300 +0800" channel="newtv潮妈辣婆">
 <title lang="zh">05_岁岁青莲</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240320103300 +0800" stop="20240320111700 +0800" channel="newtv潮妈辣婆">
+<title lang="zh">06_岁岁青莲</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240320001800 +0800" stop="20240320015400 +0800" channel="newtv精品体育">
 <title lang="zh">2023-24赛季英超联赛第20轮：曼城VS谢菲尔德联</title><desc lang="zh"></desc>
 </programme>
@@ -14825,6 +14843,9 @@
 </programme>
 <programme start="20240320083600 +0800" stop="20240320101700 +0800" channel="newtv精品体育">
 <title lang="zh">23-24赛季CBA常规赛：辽宁VS北控</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320101700 +0800" stop="20240320113900 +0800" channel="newtv精品体育">
+<title lang="zh">混合团体世界杯：中国VS韩国</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320000700 +0800" stop="20240320003300 +0800" channel="newtv精品纪录">
 <title lang="zh">铁血木兰 郭俊卿</title><desc lang="zh"></desc>
@@ -14871,6 +14892,9 @@
 <programme start="20240320100600 +0800" stop="20240320103100 +0800" channel="newtv精品纪录">
 <title lang="zh">第七集 赵雷 须过万重山</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240320103100 +0800" stop="20240320111900 +0800" channel="newtv精品纪录">
+<title lang="zh">松鼠日记</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240320002600 +0800" stop="20240320011100 +0800" channel="newtv家庭剧场">
 <title lang="zh">16_好歹一家人</title><desc lang="zh"></desc>
 </programme>
@@ -14909,6 +14933,9 @@
 </programme>
 <programme start="20240320093400 +0800" stop="20240320102300 +0800" channel="newtv家庭剧场">
 <title lang="zh">生活服务</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320102300 +0800" stop="20240320110900 +0800" channel="newtv家庭剧场">
+<title lang="zh">29_雕刻时光</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320000000 +0800" stop="20240320004600 +0800" channel="newtv精品大剧">
 <title lang="zh">11_新万家灯火</title><desc lang="zh"></desc>
@@ -14951,6 +14978,9 @@
 </programme>
 <programme start="20240320095800 +0800" stop="20240320104300 +0800" channel="newtv精品大剧">
 <title lang="zh">68_那年花开月正圆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320104300 +0800" stop="20240320112900 +0800" channel="newtv精品大剧">
+<title lang="zh">69_那年花开月正圆</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320001700 +0800" stop="20240320004300 +0800" channel="newtv军事评论">
 <title lang="zh">美韩大规模军演“点燃”半岛 美军F-35战机已在乌“参战”？</title><desc lang="zh"></desc>
@@ -15006,6 +15036,9 @@
 <programme start="20240320101400 +0800" stop="20240320104100 +0800" channel="newtv军事评论">
 <title lang="zh">钢铁大碰撞 欧洲主战坦克销冠之争</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240320104100 +0800" stop="20240320110800 +0800" channel="newtv军事评论">
+<title lang="zh">揭秘单兵飞行器</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240320000100 +0800" stop="20240320014400 +0800" channel="newtv明星大片">
 <title lang="zh">极速生活</title><desc lang="zh"></desc>
 </programme>
@@ -15045,6 +15078,9 @@
 <programme start="20240320095300 +0800" stop="20240320104300 +0800" channel="newtv明星大片">
 <title lang="zh">生活服务</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240320104300 +0800" stop="20240320113000 +0800" channel="newtv明星大片">
+<title lang="zh">19_燕云台</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240320010500 +0800" stop="20240320023700 +0800" channel="newtv东北热剧">
 <title lang="zh">捍战2</title><desc lang="zh"></desc>
 </programme>
@@ -15077,6 +15113,9 @@
 </programme>
 <programme start="20240320094400 +0800" stop="20240320102900 +0800" channel="newtv东北热剧">
 <title lang="zh">10_扶摇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240320102900 +0800" stop="20240320111400 +0800" channel="newtv东北热剧">
+<title lang="zh">11_扶摇</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240320000000 +0800" stop="20240320020000 +0800" channel="newtv欢乐剧场">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
