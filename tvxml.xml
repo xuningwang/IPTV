@@ -3,64 +3,55 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20240504013500 +0800" stop="20240504021000 +0800" channel="CCTV5(4K)">
-<title lang="zh">顶级赛事-象棋</title><desc lang="zh"></desc>
+<programme start="20240505000000 +0800" stop="20240505023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世乒联大满贯赛（沙特站）-第1轮2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504021000 +0800" stop="20240504023800 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年射箭世界杯 上海站  1</title><desc lang="zh"></desc>
+<programme start="20240505023600 +0800" stop="20240505040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合 拜仁慕尼黑-皇家马德里</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504023800 +0800" stop="20240504040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 拜仁慕尼黑—阿森纳</title><desc lang="zh"></desc>
+<programme start="20240505040000 +0800" stop="20240505060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世界女子冰壶锦标赛-决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504040000 +0800" stop="20240504060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年世界女子冰壶锦标赛-铜牌赛</title><desc lang="zh"></desc>
+<programme start="20240505060000 +0800" stop="20240505073000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 7</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504060000 +0800" stop="20240504073000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 6</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240504073000 +0800" stop="20240504080000 +0800" channel="CCTV5(4K)">
+<programme start="20240505073000 +0800" stop="20240505080000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504080000 +0800" stop="20240504090300 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年举重世界杯  男子73公斤级决赛</title><desc lang="zh"></desc>
+<programme start="20240505080000 +0800" stop="20240505090300 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年举重世界杯  女子87公斤以上级决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504090300 +0800" stop="20240504091500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年全国游泳冠军赛  10分钟版  3</title><desc lang="zh"></desc>
+<programme start="20240505090300 +0800" stop="20240505091500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年全国游泳冠军赛  10分钟版  4</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504091500 +0800" stop="20240504123000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年尤伯杯羽毛球赛-半决赛</title><desc lang="zh"></desc>
+<programme start="20240505091500 +0800" stop="20240505123000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年尤伯杯羽毛球赛-决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504123000 +0800" stop="20240504130500 +0800" channel="CCTV5(4K)">
+<programme start="20240505123000 +0800" stop="20240505130500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504130500 +0800" stop="20240504132500 +0800" channel="CCTV5(4K)">
+<programme start="20240505130500 +0800" stop="20240505134500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世界职业拳王争霸赛</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240505134500 +0800" stop="20240505155500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024上海环球马术冠军赛-1.60米障碍赛</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240505155500 +0800" stop="20240505165500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年花样游泳世界杯 法国站（录播）2</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240505165500 +0800" stop="20240505171500 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504132500 +0800" stop="20240504142800 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年花样游泳世界杯 法国站（录播）1</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240504142800 +0800" stop="20240504150000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界田联钻石联赛 厦门站 25分钟版</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240504150000 +0800" stop="20240504151000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联世锦赛 花样游泳10分钟版1（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240504151000 +0800" stop="20240504152000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联花样游泳世界杯 北京站 10分钟版（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240504152000 +0800" stop="20240504161500 +0800" channel="CCTV5(4K)">
-<title lang="zh">足球之夜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240504161500 +0800" stop="20240504164500 +0800" channel="CCTV5(4K)">
+<programme start="20240505171500 +0800" stop="20240505174500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504164500 +0800" stop="20240504200000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年汤姆斯杯羽毛球赛-半决赛</title><desc lang="zh"></desc>
+<programme start="20240505174500 +0800" stop="20240505210000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年汤姆斯杯羽毛球赛-决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504200000 +0800" stop="20240504215500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年世乒联大满贯赛（沙特站）-第1轮1</title><desc lang="zh"></desc>
+<programme start="20240505210000 +0800" stop="20240505233000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2023/2024赛季世界斯诺克锦标赛-决赛第一阶段</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240504215500 +0800" stop="20240504235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">2023/2024英格兰足球超级联赛-第36轮（伯恩利—纽卡斯尔）</title><desc lang="zh"></desc>
+<programme start="20240505233000 +0800" stop="20240505235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世乒联大满贯赛（沙特站）-第1轮2</title><desc lang="zh"></desc>
 </programme>
 </tv>
