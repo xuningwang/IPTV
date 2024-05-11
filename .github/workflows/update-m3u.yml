@@ -17,7 +17,7 @@ jobs:
 
       - name: Download external M3U file
         run: |
-          curl -L -o external.m3u https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
+          curl -L -o external.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
       - name: Merge M3U files
         run: |
