@@ -3,61 +3,67 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20240516000500 +0800" stop="20240516013500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年ATP1000男子网球大师赛 迈阿密站 半决赛</title><desc lang="zh"></desc>
+<programme start="20240517000500 +0800" stop="20240517013500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年ATP1000男子网球大师赛 迈阿密站 决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516013500 +0800" stop="20240516023600 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年举重世界杯  男子61公斤级决赛</title><desc lang="zh"></desc>
+<programme start="20240517013500 +0800" stop="20240517023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年举重世界杯  男子73公斤级决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516023600 +0800" stop="20240516040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合 拜仁慕尼黑-皇家马德里</title><desc lang="zh"></desc>
+<programme start="20240517023600 +0800" stop="20240517040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合 多特蒙德-巴黎圣日耳曼</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516040000 +0800" stop="20240516060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年世界女子冰壶锦标赛-决赛</title><desc lang="zh"></desc>
+<programme start="20240517040000 +0800" stop="20240517043000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科特布斯站25分钟版2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516060000 +0800" stop="20240516073000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 半决赛 3</title><desc lang="zh"></desc>
+<programme start="20240517043000 +0800" stop="20240517063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世界女排联赛-巴西站 (中国队-美国队)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516073000 +0800" stop="20240516080000 +0800" channel="CCTV5(4K)">
+<programme start="20240517063000 +0800" stop="20240517073000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-塔什干站1</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240517073000 +0800" stop="20240517080000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516080000 +0800" stop="20240516090000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年世界泳联跳水世界杯总决赛 女子10米台决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20240517080000 +0800" stop="20240517090000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年世界泳联跳水世界杯总决赛 男子10米台决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516090000 +0800" stop="20240516103100 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世乒联大满贯赛 沙特站  3</title><desc lang="zh"></desc>
+<programme start="20240517090000 +0800" stop="20240517103100 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年田径世界接力赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516103100 +0800" stop="20240516120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛  季后赛 总决赛 1</title><desc lang="zh"></desc>
+<programme start="20240517103100 +0800" stop="20240517120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世乒联大满贯赛 沙特站  4</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516120000 +0800" stop="20240516123500 +0800" channel="CCTV5(4K)">
+<programme start="20240517120000 +0800" stop="20240517123500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516123500 +0800" stop="20240516125800 +0800" channel="CCTV5(4K)">
+<programme start="20240517123500 +0800" stop="20240517125800 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516125800 +0800" stop="20240516143000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界女排联赛 土耳其站 日本队—土耳其队 （录播）</title><desc lang="zh"></desc>
+<programme start="20240517125800 +0800" stop="20240517143000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界女排联赛 土耳其站 荷兰队—土耳其队 （录播）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516143000 +0800" stop="20240516173000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年全国艺术体操锦标赛-个人全能决赛</title><desc lang="zh"></desc>
+<programme start="20240517143000 +0800" stop="20240517163100 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年尤伯杯羽毛球赛 决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516173000 +0800" stop="20240516180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年射箭世界杯 上海站  1</title><desc lang="zh"></desc>
+<programme start="20240517163100 +0800" stop="20240517180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-23-24赛季英超联赛第37轮 曼联—阿森纳</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516180000 +0800" stop="20240516183500 +0800" channel="CCTV5(4K)">
+<programme start="20240517180000 +0800" stop="20240517183500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516183500 +0800" stop="20240516193000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年花样游泳世界杯 法国站 2</title><desc lang="zh"></desc>
+<programme start="20240517183500 +0800" stop="20240517192500 +0800" channel="CCTV5(4K)">
+<title lang="zh">篮球公园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516193000 +0800" stop="20240516213500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年中国足协超级联赛-第12轮（山东泰山—深圳新鹏城）</title><desc lang="zh"></desc>
+<programme start="20240517192500 +0800" stop="20240517214500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2023/2024赛季中国男子篮球职业联赛-总决赛第二场（辽宁本钢-新疆伊力特）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516213500 +0800" stop="20240516220500 +0800" channel="CCTV5(4K)">
+<programme start="20240517214500 +0800" stop="20240517222000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240516220500 +0800" stop="20240516235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年世界女排联赛-土耳其站 (保加利亚队-日本队)</title><desc lang="zh"></desc>
+<programme start="20240517222000 +0800" stop="20240517234000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界女排联赛 巴西站 中国队—美国队</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240517234000 +0800" stop="20240517235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界田联钻石联赛 多哈站 25分钟版</title><desc lang="zh"></desc>
 </programme>
 </tv>
