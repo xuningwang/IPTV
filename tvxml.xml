@@ -3,64 +3,64 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20240630021500 +0800" stop="20240630051500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024欧洲杯足球赛-1/8决赛：德国VS丹麦</title><desc lang="zh"></desc>
+<programme start="20240701021500 +0800" stop="20240701051500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024欧洲杯足球赛-1/8决赛4</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630051500 +0800" stop="20240630053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年全国游泳冠军赛  10分钟版  4</title><desc lang="zh"></desc>
+<programme start="20240701051500 +0800" stop="20240701053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年全国游泳冠军赛  10分钟版  1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630053000 +0800" stop="20240630060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年国际体联体操世界杯 多哈站 25分钟版 1</title><desc lang="zh"></desc>
+<programme start="20240701053000 +0800" stop="20240701060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界田联钻石联赛 多哈站 25分钟版</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630060000 +0800" stop="20240630063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年射箭世界杯 上海站  2</title><desc lang="zh"></desc>
+<programme start="20240701060000 +0800" stop="20240701063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-帕拉约法利罗站25分钟版1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630063000 +0800" stop="20240630070000 +0800" channel="CCTV5(4K)">
+<programme start="20240701063000 +0800" stop="20240701070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630070000 +0800" stop="20240630090500 +0800" channel="CCTV5(4K)">
+<programme start="20240701070000 +0800" stop="20240701090800 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630090500 +0800" stop="20240630093000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-米兰站 25分钟版1（4K）</title><desc lang="zh"></desc>
+<programme start="20240701090800 +0800" stop="20240701103000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界女排联赛 总决赛 决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630093000 +0800" stop="20240630100000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2024年射箭世界杯-安塔利亚站2（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630100000 +0800" stop="20240630120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-星耀五环 黄金年代</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630120000 +0800" stop="20240630123500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛快讯</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630123500 +0800" stop="20240630125500 +0800" channel="CCTV5(4K)">
-<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630125500 +0800" stop="20240630130000 +0800" channel="CCTV5(4K)">
-<title lang="zh">从北京到巴黎 中国艺术大展行-7(4K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630130000 +0800" stop="20240630140000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年世界职业拳王争霸赛</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630140000 +0800" stop="20240630180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024欧洲杯足球赛报道-星耀金杯-14</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630180000 +0800" stop="20240630183500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体育新闻</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630183500 +0800" stop="20240630190500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年奥运会攀岩资格赛-布达佩斯站 速度决赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630190500 +0800" stop="20240630200000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年奥运会霹雳舞资格赛-布达佩斯站 决赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630200000 +0800" stop="20240630213000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024欧洲杯足球赛报道-足球盛宴-16</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240630213000 +0800" stop="20240630230000 +0800" channel="CCTV5(4K)">
+<programme start="20240701103000 +0800" stop="20240701120000 +0800" channel="CCTV5(4K)">
 <title lang="zh">实况录像-星耀五环 飞翔</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240630230000 +0800" stop="20240630235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024欧洲杯足球赛-1/8决赛3</title><desc lang="zh"></desc>
+<programme start="20240701120000 +0800" stop="20240701123500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛快讯</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701123500 +0800" stop="20240701125500 +0800" channel="CCTV5(4K)">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701125500 +0800" stop="20240701130000 +0800" channel="CCTV5(4K)">
+<title lang="zh">从北京到巴黎 中国艺术大展行-8(4K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701130000 +0800" stop="20240701140000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-米兰站1（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701140000 +0800" stop="20240701180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024欧洲杯足球赛报道-星耀金杯-15</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701180000 +0800" stop="20240701183500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体育新闻</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701183500 +0800" stop="20240701200000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-星耀五环 争流</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701200000 +0800" stop="20240701213000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024欧洲杯足球赛报道-足球盛宴-17</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701213000 +0800" stop="20240701220500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体育世界</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701220500 +0800" stop="20240701223500 +0800" channel="CCTV5(4K)">
+<title lang="zh">五环纪事-绽放巴黎-1(4K精编)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701223500 +0800" stop="20240701230000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2024年射箭世界杯-安塔利亚站1（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240701230000 +0800" stop="20240701235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024欧洲杯足球赛-1/8决赛5</title><desc lang="zh"></desc>
 </programme>
 </tv>
