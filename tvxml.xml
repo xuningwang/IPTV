@@ -3,61 +3,67 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20240713023500 +0800" stop="20240713040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年世界男排联赛总决赛-三四名决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20240714000600 +0800" stop="20240714013500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年奥运会男篮资格赛 西班牙站 决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713040000 +0800" stop="20240713060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年尤伯杯羽毛球赛 决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20240714013500 +0800" stop="20240714023500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年举重世界杯  女子87公斤以上级决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713060000 +0800" stop="20240713063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2024年射箭世界杯-安塔利亚站2（4K）</title><desc lang="zh"></desc>
+<programme start="20240714023500 +0800" stop="20240714040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世界男排联赛总决赛-决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713063000 +0800" stop="20240713070000 +0800" channel="CCTV5(4K)">
+<programme start="20240714040000 +0800" stop="20240714060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年汤姆斯杯羽毛球赛 决赛（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714060000 +0800" stop="20240714063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2024年射箭世界杯 醴泉站1</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714063000 +0800" stop="20240714070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713070000 +0800" stop="20240713090300 +0800" channel="CCTV5(4K)">
+<programme start="20240714070000 +0800" stop="20240714090300 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713090300 +0800" stop="20240713100000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-米兰站1（4K）</title><desc lang="zh"></desc>
+<programme start="20240714090300 +0800" stop="20240714100000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年国际体联蹦床世界杯 阿罗萨站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713100000 +0800" stop="20240713120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-星耀五环 举重若轻</title><desc lang="zh"></desc>
+<programme start="20240714100000 +0800" stop="20240714120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年环青海湖国际公路自行车赛-第八赛段</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713120000 +0800" stop="20240713123500 +0800" channel="CCTV5(4K)">
+<programme start="20240714120000 +0800" stop="20240714123500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713123500 +0800" stop="20240713130000 +0800" channel="CCTV5(4K)">
+<programme start="20240714123500 +0800" stop="20240714125500 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713130000 +0800" stop="20240713150000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年环青海湖国际公路自行车赛-第七赛段</title><desc lang="zh"></desc>
+<programme start="20240714125500 +0800" stop="20240714130000 +0800" channel="CCTV5(4K)">
+<title lang="zh">从北京到巴黎 中国艺术大展行-21(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713150000 +0800" stop="20240713162300 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界田联钻石联赛  摩纳哥站（录播）</title><desc lang="zh"></desc>
+<programme start="20240714130000 +0800" stop="20240714142500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年世界职业拳王争霸赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713162300 +0800" stop="20240713174500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024欧洲杯足球赛  半决赛 2</title><desc lang="zh"></desc>
+<programme start="20240714142500 +0800" stop="20240714155000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024欧洲杯足球赛  半决赛 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713174500 +0800" stop="20240713180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-1(4K)</title><desc lang="zh"></desc>
+<programme start="20240714155000 +0800" stop="20240714174500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-星耀五环 永不言败</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713180000 +0800" stop="20240713183500 +0800" channel="CCTV5(4K)">
+<programme start="20240714174500 +0800" stop="20240714180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-2(4K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240714180000 +0800" stop="20240714183300 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713183500 +0800" stop="20240713193000 +0800" channel="CCTV5(4K)">
-<title lang="zh">足球之夜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240713193000 +0800" stop="20240713202500 +0800" channel="CCTV5(4K)">
+<programme start="20240714183300 +0800" stop="20240714193000 +0800" channel="CCTV5(4K)">
 <title lang="zh">实况录像-星耀五环 向未来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713202500 +0800" stop="20240713210000 +0800" channel="CCTV5(4K)">
-<title lang="zh">五环纪事-绽放巴黎-13(4K精编）</title><desc lang="zh"></desc>
+<programme start="20240714193000 +0800" stop="20240714200000 +0800" channel="CCTV5(4K)">
+<title lang="zh">五环纪事-绽放巴黎-14(4K精编）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713210000 +0800" stop="20240713233500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年温布尔登网球赛-女单决赛</title><desc lang="zh"></desc>
+<programme start="20240714200000 +0800" stop="20240714210000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024欧洲杯足球赛报道-足球盛宴-26</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240713233500 +0800" stop="20240713235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科英布拉站 25分钟版2（4K）</title><desc lang="zh"></desc>
+<programme start="20240714210000 +0800" stop="20240714235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年温布尔登网球赛-男单决赛</title><desc lang="zh"></desc>
 </programme>
 </tv>
