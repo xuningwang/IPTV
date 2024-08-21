@@ -3,70 +3,73 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20240820001500 +0800" stop="20240820003000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏5（4K）</title><desc lang="zh"></desc>
+<programme start="20240821004500 +0800" stop="20240821010000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏7（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820003000 +0800" stop="20240820033500 +0800" channel="CCTV5(4K)">
-<title lang="zh">顶级赛事-高尔夫</title><desc lang="zh"></desc>
+<programme start="20240821010000 +0800" stop="20240821020000 +0800" channel="CCTV5(4K)">
+<title lang="zh">顶级赛事-围棋</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820033500 +0800" stop="20240820040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女子霹雳舞比赛（4K）</title><desc lang="zh"></desc>
+<programme start="20240821020000 +0800" stop="20240821033000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 网球比赛1（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820040000 +0800" stop="20240820053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 羽毛球混双决赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820053000 +0800" stop="20240820060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 赛艇比赛2（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820060000 +0800" stop="20240820063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 射击比赛2（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820063000 +0800" stop="20240820070000 +0800" channel="CCTV5(4K)">
-<title lang="zh">健身动起来</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820070000 +0800" stop="20240820090500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛晨报</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820090500 +0800" stop="20240820103100 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 田径比赛2（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820103100 +0800" stop="20240820120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男篮铜牌赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820120000 +0800" stop="20240820123500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛快讯</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820123500 +0800" stop="20240820125500 +0800" channel="CCTV5(4K)">
-<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820125500 +0800" stop="20240820130000 +0800" channel="CCTV5(4K)">
-<title lang="zh">从北京到巴黎 中国艺术大展行-42(4K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820130000 +0800" stop="20240820143000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操单项决赛2（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820143000 +0800" stop="20240820173000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025赛季斯诺克西安大奖赛-第2轮</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240820173000 +0800" stop="20240820180000 +0800" channel="CCTV5(4K)">
+<programme start="20240821033000 +0800" stop="20240821040000 +0800" channel="CCTV5(4K)">
 <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 攀岩女子速度决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820180000 +0800" stop="20240820183500 +0800" channel="CCTV5(4K)">
+<programme start="20240821040000 +0800" stop="20240821053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 羽毛球女单决赛（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821053000 +0800" stop="20240821060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 皮划艇比赛1（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821060000 +0800" stop="20240821063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 射击比赛3（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821063000 +0800" stop="20240821070000 +0800" channel="CCTV5(4K)">
+<title lang="zh">健身动起来</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821070000 +0800" stop="20240821090500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛晨报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821090500 +0800" stop="20240821103100 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 田径比赛3（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821103100 +0800" stop="20240821120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男篮决赛（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821120000 +0800" stop="20240821123500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛快讯</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821123500 +0800" stop="20240821125500 +0800" channel="CCTV5(4K)">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821125500 +0800" stop="20240821130000 +0800" channel="CCTV5(4K)">
+<title lang="zh">从北京到巴黎 中国艺术大展行-43(4K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821130000 +0800" stop="20240821140000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水男子双人10米台决赛（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821140000 +0800" stop="20240821170000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025赛季斯诺克西安大奖赛- 第3轮</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821170000 +0800" stop="20240821180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 沙滩排球比赛1（4K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240821180000 +0800" stop="20240821183500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820183500 +0800" stop="20240820200000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第1轮 摩纳哥—圣艾蒂安</title><desc lang="zh"></desc>
+<programme start="20240821183500 +0800" stop="20240821193000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 艺术体操个人全能决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820200000 +0800" stop="20240820220000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年姚基金慈善赛-中国男篮明星队-国际男篮明星队</title><desc lang="zh"></desc>
+<programme start="20240821193000 +0800" stop="20240821213500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年中国足协杯-1/4决赛（山东泰山—河南）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820220000 +0800" stop="20240820223500 +0800" channel="CCTV5(4K)">
+<programme start="20240821213500 +0800" stop="20240821221000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820223500 +0800" stop="20240820235500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女排半决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20240821221000 +0800" stop="20240821233000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女排铜牌赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240820235500 +0800" stop="20240820235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛2（4K）</title><desc lang="zh"></desc>
+<programme start="20240821233000 +0800" stop="20240821235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛3（4K）</title><desc lang="zh"></desc>
 </programme>
 </tv>
