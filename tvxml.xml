@@ -3,70 +3,70 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20240925003000 +0800" stop="20240925013000 +0800" channel="CCTV5(4K)">
-<title lang="zh">顶级赛事-围棋</title><desc lang="zh"></desc>
+<programme start="20240926003000 +0800" stop="20240926005500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站 25分钟版 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925013000 +0800" stop="20240925023100 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2024年世界山地自行车锦标赛1（4K）</title><desc lang="zh"></desc>
+<programme start="20240926005500 +0800" stop="20240926030500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025西班牙足球甲级联赛-第7轮（赫罗纳—巴列卡诺）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925023100 +0800" stop="20240925040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年国际足联U20女足世界杯  半决赛  1</title><desc lang="zh"></desc>
+<programme start="20240926030500 +0800" stop="20240926040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯  意大利站  1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925040000 +0800" stop="20240925060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年美国网球公开赛-男单决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20240926040000 +0800" stop="20240926053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第2轮 巴黎圣日耳曼—蒙彼利埃</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925060000 +0800" stop="20240925063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界田联钻石联赛  摩纳哥站25分钟版</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925063000 +0800" stop="20240925070000 +0800" channel="CCTV5(4K)">
-<title lang="zh">健身动起来</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925070000 +0800" stop="20240925090500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛晨报</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925090500 +0800" stop="20240925093500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界技巧运动锦标赛 3</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925093500 +0800" stop="20240925103300 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年公路自行车世锦赛-男子个人计时赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925103300 +0800" stop="20240925120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站 2</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925120000 +0800" stop="20240925123500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛快讯</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925123500 +0800" stop="20240925125500 +0800" channel="CCTV5(4K)">
-<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925125500 +0800" stop="20240925130000 +0800" channel="CCTV5(4K)">
-<title lang="zh">从北京到巴黎 中国艺术大展行-78(4K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925130000 +0800" stop="20240925170500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年中国网球公开赛-女单第1轮1</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925170500 +0800" stop="20240925180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界职业拳王争霸赛 12</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925180000 +0800" stop="20240925183500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体育新闻</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925183500 +0800" stop="20240925190000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界技巧运动锦标赛 2</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240925190000 +0800" stop="20240925193000 +0800" channel="CCTV5(4K)">
+<programme start="20240926053000 +0800" stop="20240926060000 +0800" channel="CCTV5(4K)">
 <title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站 25分钟版</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925193000 +0800" stop="20240925213000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024年中国足协杯-半决赛（上海海港—上海申花）</title><desc lang="zh"></desc>
+<programme start="20240926060000 +0800" stop="20240926063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界技巧运动锦标赛 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925213000 +0800" stop="20240925220500 +0800" channel="CCTV5(4K)">
+<programme start="20240926063000 +0800" stop="20240926070000 +0800" channel="CCTV5(4K)">
+<title lang="zh">健身动起来</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926070000 +0800" stop="20240926090500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛晨报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926090500 +0800" stop="20240926103000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年国际足联U20女足世界杯 三、四名决赛</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926103000 +0800" stop="20240926120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926120000 +0800" stop="20240926123500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛快讯</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926123500 +0800" stop="20240926125500 +0800" channel="CCTV5(4K)">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926125500 +0800" stop="20240926130000 +0800" channel="CCTV5(4K)">
+<title lang="zh">从北京到巴黎 中国艺术大展行-79(4K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926130000 +0800" stop="20240926150500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年中国网球公开赛-男单第1轮1</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926150500 +0800" stop="20240926163000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025西班牙足球甲级联赛-第6轮（毕尔巴鄂竞技-塞尔塔）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926163000 +0800" stop="20240926180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年中国羽毛球公开赛 1</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926180000 +0800" stop="20240926183500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体育新闻</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926183500 +0800" stop="20240926190000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界田联钻石联赛 罗马站25分钟版</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926190000 +0800" stop="20240926210000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年中国网球公开赛-女单第1轮2</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240926210000 +0800" stop="20240926213000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925220500 +0800" stop="20240925233000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世乒联冠军赛  中国澳门站  1</title><desc lang="zh"></desc>
+<programme start="20240926213000 +0800" stop="20240926230500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024年中国网球公开赛-男单第1轮2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240925233000 +0800" stop="20240925235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 西班牙站 1</title><desc lang="zh"></desc>
+<programme start="20240926230500 +0800" stop="20240926235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 西班牙站 2</title><desc lang="zh"></desc>
 </programme>
 </tv>
