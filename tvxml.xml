@@ -3,61 +3,58 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250222000500 +0800" stop="20250222004000 +0800" channel="CCTV5(4K)">
-<title lang="zh">顶级赛事-象棋</title><desc lang="zh"></desc>
+<programme start="20250223013500 +0800" stop="20250223030500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222004000 +0800" stop="20250222011000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季自由式滑雪世界杯 美国普莱西德湖站 女子空中技巧（4K）</title><desc lang="zh"></desc>
+<programme start="20250223030500 +0800" stop="20250223040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年澳大利亚网球公开赛-女单第一轮（王曦雨-格拉布赫尔）（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222011000 +0800" stop="20250222023800 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title><desc lang="zh"></desc>
+<programme start="20250223040000 +0800" stop="20250223053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季英超联赛第25轮  利物浦—伍尔弗汉普顿（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222023800 +0800" stop="20250222040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年澳大利亚网球公开赛-双打比赛（4K）</title><desc lang="zh"></desc>
+<programme start="20250223053000 +0800" stop="20250223060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222040000 +0800" stop="20250222053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季英超联赛第25轮 曼彻斯特城—纽卡斯尔联（4K）</title><desc lang="zh"></desc>
+<programme start="20250223060000 +0800" stop="20250223063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222053000 +0800" stop="20250222060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250222060000 +0800" stop="20250222063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站  钢架雪车混合团体</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250222063000 +0800" stop="20250222070000 +0800" channel="CCTV5(4K)">
+<programme start="20250223063000 +0800" stop="20250223070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222070000 +0800" stop="20250222080000 +0800" channel="CCTV5(4K)">
+<programme start="20250223070000 +0800" stop="20250223090300 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222080000 +0800" stop="20250222103000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025赛季美国职业篮球联赛-常规赛(尼克斯-骑士)</title><desc lang="zh"></desc>
+<programme start="20250223090300 +0800" stop="20250223093000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站  钢架雪车混合团体</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222103000 +0800" stop="20250222110000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦(高清体育)-2025-18-2024/2025西班牙足球甲级联赛第24轮集锦</title><desc lang="zh"></desc>
+<programme start="20250223093000 +0800" stop="20250223120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025赛季美国职业篮球联赛-常规赛(湖人-掘金)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222110000 +0800" stop="20250222113000 +0800" channel="CCTV5(4K)">
+<programme start="20250223120000 +0800" stop="20250223130500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222113000 +0800" stop="20250222143000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年乒乓球亚洲杯-1/8决赛</title><desc lang="zh"></desc>
+<programme start="20250223130500 +0800" stop="20250223132500 +0800" channel="CCTV5(4K)">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222143000 +0800" stop="20250222160000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年四大洲花样滑冰锦标赛-男单自由滑</title><desc lang="zh"></desc>
+<programme start="20250223132500 +0800" stop="20250223150000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年世界职业拳王争霸赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222160000 +0800" stop="20250222180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025赛季中国排球超级联赛-女子半决赛（上海光明优倍-天津渤海银行）</title><desc lang="zh"></desc>
+<programme start="20250223150000 +0800" stop="20250223170000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年男篮亚洲杯预选赛-关岛队-中国队</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222180000 +0800" stop="20250222190000 +0800" channel="CCTV5(4K)">
+<programme start="20250223170000 +0800" stop="20250223173000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 波兰站（录播）2</title><desc lang="zh"></desc>
+</programme>
+<programme start="20250223173000 +0800" stop="20250223180000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222190000 +0800" stop="20250222220500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025中国足球超级联赛-开幕式及揭幕战（上海申花—长春亚泰）</title><desc lang="zh"></desc>
+<programme start="20250223180000 +0800" stop="20250223213000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年乒乓球亚洲杯-三四名决赛、决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222220500 +0800" stop="20250222233500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年乒乓球亚洲杯单打1/4决赛（录播）</title><desc lang="zh"></desc>
+<programme start="20250223213000 +0800" stop="20250223230500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年四大洲花样滑冰锦标赛 女单自由滑（录播）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250222233500 +0800" stop="20250222235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季斯诺克威尔士公开赛  决赛</title><desc lang="zh"></desc>
+<programme start="20250223230500 +0800" stop="20250223235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025西班牙足球甲级联赛-第25轮（皇家马德里—赫罗纳）</title><desc lang="zh"></desc>
 </programme>
 </tv>
