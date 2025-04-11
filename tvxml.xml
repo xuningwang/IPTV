@@ -3,67 +3,61 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250410000500 +0800" stop="20250410010500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 波兰站 1</title><desc lang="zh"></desc>
+<programme start="20250411010500 +0800" stop="20250411023500 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2025年世界室内田径锦标赛 1（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410010500 +0800" stop="20250410023500 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2025年世界室内田径锦标赛 3（4K）</title><desc lang="zh"></desc>
+<programme start="20250411023500 +0800" stop="20250411040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410023500 +0800" stop="20250410040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 半决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20250411040000 +0800" stop="20250411053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季法甲联赛第10轮 巴黎圣日耳曼—朗斯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410040000 +0800" stop="20250410053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季英超联赛第16轮 利物浦—富勒姆(4K)</title><desc lang="zh"></desc>
+<programme start="20250411053000 +0800" stop="20250411060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界雪车锦标赛 男子钢架雪车决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410053000 +0800" stop="20250410060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界雪车锦标赛 女子双人雪车决赛</title><desc lang="zh"></desc>
+<programme start="20250411060000 +0800" stop="20250411063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦（奥林匹克）-2025年世界单板滑雪锦标赛 平行回转决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410060000 +0800" stop="20250410063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦（奥林匹克）-2025年世界自由式滑雪锦标赛 障碍追逐决赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250410063000 +0800" stop="20250410070000 +0800" channel="CCTV5(4K)">
+<programme start="20250411063000 +0800" stop="20250411070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410070000 +0800" stop="20250410090500 +0800" channel="CCTV5(4K)">
+<programme start="20250411070000 +0800" stop="20250411090500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410090500 +0800" stop="20250410103200 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025德国足球甲级联赛-第28轮(不来梅-法兰克福)（4K）</title><desc lang="zh"></desc>
+<programme start="20250411090500 +0800" stop="20250411103200 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025西班牙足球甲级联赛-第30轮(塞维利亚-马德里竞技 )（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410103200 +0800" stop="20250410120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 12进8第二场 1</title><desc lang="zh"></desc>
+<programme start="20250411103200 +0800" stop="20250411120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 12进8第二场 2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410120000 +0800" stop="20250410130500 +0800" channel="CCTV5(4K)">
+<programme start="20250411120000 +0800" stop="20250411130500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410130500 +0800" stop="20250410132500 +0800" channel="CCTV5(4K)">
+<programme start="20250411130500 +0800" stop="20250411132500 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410132500 +0800" stop="20250410142800 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世乒联冠军赛 仁川站 男单比赛</title><desc lang="zh"></desc>
+<programme start="20250411132500 +0800" stop="20250411142800 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2025年全国举重锦标赛 男子比赛2（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410142800 +0800" stop="20250410160000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界男子冰壶锦标赛 3</title><desc lang="zh"></desc>
+<programme start="20250411142800 +0800" stop="20250411160000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2025年世界女子冰壶锦标赛 1（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410160000 +0800" stop="20250410180000 +0800" channel="CCTV5(4K)">
+<programme start="20250411160000 +0800" stop="20250411180000 +0800" channel="CCTV5(4K)">
 <title lang="zh">运动一起赢</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410180000 +0800" stop="20250410190000 +0800" channel="CCTV5(4K)">
+<programme start="20250411180000 +0800" stop="20250411183500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410190000 +0800" stop="20250410193000 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛零距离(4K)</title><desc lang="zh"></desc>
+<programme start="20250411183500 +0800" stop="20250411193000 +0800" channel="CCTV5(4K)">
+<title lang="zh">篮球公园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410193000 +0800" stop="20250410214500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛12进8 第三场（青岛国信制药VS浙江稠州金租）</title><desc lang="zh"></desc>
+<programme start="20250411193000 +0800" stop="20250411214500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛12进8 第三场（广东东阳光VS上海久事）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410214500 +0800" stop="20250410225000 +0800" channel="CCTV5(4K)">
+<programme start="20250411214500 +0800" stop="20250411225000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250410225000 +0800" stop="20250410235000 +0800" channel="CCTV5(4K)">
-<title lang="zh">足球之夜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250410235000 +0800" stop="20250410235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国排球超级联赛女子决赛第一场 上海光明优倍—江苏中天钢铁</title><desc lang="zh"></desc>
+<programme start="20250411225000 +0800" stop="20250411235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世乒联冠军赛 仁川站  3</title><desc lang="zh"></desc>
 </programme>
 </tv>
