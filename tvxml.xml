@@ -3,61 +3,58 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250427001000 +0800" stop="20250427010500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界短道速滑锦标赛 1</title><desc lang="zh"></desc>
+<programme start="20250428010500 +0800" stop="20250428023500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427010500 +0800" stop="20250427023500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 决赛（4K）</title><desc lang="zh"></desc>
+<programme start="20250428023500 +0800" stop="20250428040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界花样滑冰锦标赛 男单自由滑</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427023500 +0800" stop="20250427040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界花样滑冰锦标赛 冰舞自由舞</title><desc lang="zh"></desc>
+<programme start="20250428040000 +0800" stop="20250428053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季西甲联赛第23轮 皇家马德里—马德里竞技（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427040000 +0800" stop="20250427053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季法甲联赛第30轮 尼斯—昂热（4K）</title><desc lang="zh"></desc>
+<programme start="20250428053000 +0800" stop="20250428060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界雪车锦标赛 女子双人雪车决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427053000 +0800" stop="20250427060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界雪车锦标赛 男子四人雪车决赛</title><desc lang="zh"></desc>
+<programme start="20250428060000 +0800" stop="20250428063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦（奥林匹克）-2025年世界自由式滑雪锦标赛 障碍追逐混合团体决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427060000 +0800" stop="20250427063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像（奥林匹克）-2025年世界单板滑雪锦标赛 平行大回转决赛（4K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250427063000 +0800" stop="20250427070000 +0800" channel="CCTV5(4K)">
+<programme start="20250428063000 +0800" stop="20250428070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427070000 +0800" stop="20250427090300 +0800" channel="CCTV5(4K)">
+<programme start="20250428070000 +0800" stop="20250428090300 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427090300 +0800" stop="20250427091500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季斯诺克世界公开赛 墨菲的147</title><desc lang="zh"></desc>
+<programme start="20250428090300 +0800" stop="20250428091500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯埃及站 男子单人技术自选决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427091500 +0800" stop="20250427120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年苏迪曼杯羽毛球赛-小组赛（泰国队-中国香港队）</title><desc lang="zh"></desc>
+<programme start="20250428091500 +0800" stop="20250428123000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年苏迪曼杯羽毛球赛-小组赛(韩国队-加拿大队)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427120000 +0800" stop="20250427130500 +0800" channel="CCTV5(4K)">
+<programme start="20250428123000 +0800" stop="20250428133500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427130500 +0800" stop="20250427132500 +0800" channel="CCTV5(4K)">
+<programme start="20250428133500 +0800" stop="20250428135800 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427132500 +0800" stop="20250427143000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年世界职业拳王争霸赛</title><desc lang="zh"></desc>
+<programme start="20250428135800 +0800" stop="20250428160000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 第二轮（录播）3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427143000 +0800" stop="20250427163000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 第二轮（录播）2</title><desc lang="zh"></desc>
+<programme start="20250428160000 +0800" stop="20250428164500 +0800" channel="CCTV5(4K)">
+<title lang="zh">运动一起赢</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427163000 +0800" stop="20250427180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站</title><desc lang="zh"></desc>
+<programme start="20250428164500 +0800" stop="20250428193000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年苏迪曼杯羽毛球赛-小组赛(中国队-中国香港队)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427180000 +0800" stop="20250427190000 +0800" channel="CCTV5(4K)">
-<title lang="zh">体育新闻</title><desc lang="zh"></desc>
+<programme start="20250428193000 +0800" stop="20250428214500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2024/2025赛季中国男子篮球职业联赛-半决赛 浙江方兴渡VS辽宁本钢</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427190000 +0800" stop="20250427193000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦(高清体育)-2024/2025英格兰足球超级联赛第33轮集锦</title><desc lang="zh"></desc>
+<programme start="20250428214500 +0800" stop="20250428223000 +0800" channel="CCTV5(4K)">
+<title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427193000 +0800" stop="20250427214500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025赛季中国男子篮球职业联赛-半决赛（山西汾酒-北京北汽）第一场</title><desc lang="zh"></desc>
+<programme start="20250428223000 +0800" stop="20250428233000 +0800" channel="CCTV5(4K)">
+<title lang="zh">天下足球</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250427214500 +0800" stop="20250427235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">2024/2025赛季世界斯诺克锦标赛-第2轮2</title><desc lang="zh"></desc>
+<programme start="20250428233000 +0800" stop="20250428235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站25分钟版</title><desc lang="zh"></desc>
 </programme>
 </tv>
