@@ -3,64 +3,67 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250618000500 +0800" stop="20250618010500 +0800" channel="CCTV5(4K)">
-<title lang="zh">顶级赛事-围棋</title><desc lang="zh"></desc>
+<programme start="20250619003500 +0800" stop="20250619010500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年攀岩世界杯 中国吴江站 速度赛决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618010500 +0800" stop="20250618023600 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年国际乒联单打世界杯 2</title><desc lang="zh"></desc>
+<programme start="20250619010500 +0800" stop="20250619023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年国际乒联单打世界杯 3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618023600 +0800" stop="20250618040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛  半决赛 1</title><desc lang="zh"></desc>
+<programme start="20250619023600 +0800" stop="20250619040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618040000 +0800" stop="20250618053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季法甲联赛第5轮 摩纳哥—勒阿弗尔</title><desc lang="zh"></desc>
+<programme start="20250619040000 +0800" stop="20250619053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季英超联赛第6轮 阿森纳—莱斯特城</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618053000 +0800" stop="20250618060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">赛事集锦-2025年三人篮球亚洲杯3（4K）</title><desc lang="zh"></desc>
+<programme start="20250619053000 +0800" stop="20250619060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">赛事集锦-2025年三人篮球亚洲杯4（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618060000 +0800" stop="20250618063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 4</title><desc lang="zh"></desc>
+<programme start="20250619060000 +0800" stop="20250619063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年射箭世界杯 中国站 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618063000 +0800" stop="20250618070000 +0800" channel="CCTV5(4K)">
+<programme start="20250619063000 +0800" stop="20250619070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618070000 +0800" stop="20250618090800 +0800" channel="CCTV5(4K)">
+<programme start="20250619070000 +0800" stop="20250619090800 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618090800 +0800" stop="20250618104100 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界田联钻石联赛  罗马站</title><desc lang="zh"></desc>
+<programme start="20250619090800 +0800" stop="20250619104100 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618104100 +0800" stop="20250618120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年中国女篮热身赛 临沂站 中国队—波黑队</title><desc lang="zh"></desc>
+<programme start="20250619104100 +0800" stop="20250619120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年中国女篮热身赛 西安站 中国队—日本队</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618120000 +0800" stop="20250618130500 +0800" channel="CCTV5(4K)">
+<programme start="20250619120000 +0800" stop="20250619130500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618130500 +0800" stop="20250618132800 +0800" channel="CCTV5(4K)">
+<programme start="20250619130500 +0800" stop="20250619132800 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618132800 +0800" stop="20250618150000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年法国网球公开赛 女单第三轮 姆博科—郑钦文</title><desc lang="zh"></desc>
+<programme start="20250619132800 +0800" stop="20250619150000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年法国网球公开赛 女单第四轮 萨姆索诺娃—郑钦文</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618150000 +0800" stop="20250618160000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年赛艇世界杯-瓦雷泽站</title><desc lang="zh"></desc>
+<programme start="20250619150000 +0800" stop="20250619160000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像（奥林匹克）-2025年亚洲举重锦标赛 男子102公斤级决赛（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618160000 +0800" stop="20250618180000 +0800" channel="CCTV5(4K)">
+<programme start="20250619160000 +0800" stop="20250619180000 +0800" channel="CCTV5(4K)">
 <title lang="zh">运动一起赢</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618180000 +0800" stop="20250618190000 +0800" channel="CCTV5(4K)">
+<programme start="20250619180000 +0800" stop="20250619190000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618190000 +0800" stop="20250618192500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛3</title><desc lang="zh"></desc>
+<programme start="20250619190000 +0800" stop="20250619193000 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛零距离(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618192500 +0800" stop="20250618213000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年中国女篮热身赛-西安站（中国队-日本队）</title><desc lang="zh"></desc>
+<programme start="20250619193000 +0800" stop="20250619203000 +0800" channel="CCTV5(4K)">
+<title lang="zh">足球之夜</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618213000 +0800" stop="20250618223500 +0800" channel="CCTV5(4K)">
+<programme start="20250619203000 +0800" stop="20250619213000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界泳联跳水世界杯 中国队比赛</title><desc lang="zh"></desc>
+</programme>
+<programme start="20250619213000 +0800" stop="20250619223500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250618223500 +0800" stop="20250618235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 2</title><desc lang="zh"></desc>
+<programme start="20250619223500 +0800" stop="20250619235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title><desc lang="zh"></desc>
 </programme>
 </tv>
