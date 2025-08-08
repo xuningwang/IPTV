@@ -3,67 +3,61 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250807003000 +0800" stop="20250807005500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title><desc lang="zh"></desc>
+<programme start="20250808010500 +0800" stop="20250808023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界田联钻石联赛 摩纳哥站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807005500 +0800" stop="20250807010500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界泳联世锦赛 花样游泳比赛10分钟版 1</title><desc lang="zh"></desc>
+<programme start="20250808023600 +0800" stop="20250808040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807010500 +0800" stop="20250807023600 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站</title><desc lang="zh"></desc>
+<programme start="20250808040000 +0800" stop="20250808053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季英超联赛第25轮 曼彻斯特城—纽卡斯尔联（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807023600 +0800" stop="20250807040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title><desc lang="zh"></desc>
+<programme start="20250808053000 +0800" stop="20250808060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 4</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807040000 +0800" stop="20250807053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季西甲联赛第23轮 皇家马德里—马德里竞技（4K）</title><desc lang="zh"></desc>
+<programme start="20250808060000 +0800" stop="20250808063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 埃及站  1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807053000 +0800" stop="20250807060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 3</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250807060000 +0800" stop="20250807063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 加拿大站 2</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250807063000 +0800" stop="20250807070000 +0800" channel="CCTV5(4K)">
+<programme start="20250808063000 +0800" stop="20250808070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807070000 +0800" stop="20250807090000 +0800" channel="CCTV5(4K)">
+<programme start="20250808070000 +0800" stop="20250808090000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807090000 +0800" stop="20250807120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年世乒联冠军赛(日本站)-第1轮1</title><desc lang="zh"></desc>
+<programme start="20250808090000 +0800" stop="20250808120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年WTT横滨冠军赛-第1轮2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807120000 +0800" stop="20250807130500 +0800" channel="CCTV5(4K)">
+<programme start="20250808120000 +0800" stop="20250808130500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807130500 +0800" stop="20250807132500 +0800" channel="CCTV5(4K)">
+<programme start="20250808130500 +0800" stop="20250808132800 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807132500 +0800" stop="20250807142500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界泳联世锦赛 跳水 男子10米台决赛</title><desc lang="zh"></desc>
+<programme start="20250808132800 +0800" stop="20250808140000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界泳联世锦赛 游泳中国队比赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807142500 +0800" stop="20250807152000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界职业拳王争霸赛 12</title><desc lang="zh"></desc>
+<programme start="20250808140000 +0800" stop="20250808141000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年成都世界运动会-泳池100米混合救生女子、男子决赛等</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807152000 +0800" stop="20250807155000 +0800" channel="CCTV5(4K)">
-<title lang="zh">体坛零距离(4K)</title><desc lang="zh"></desc>
+<programme start="20250808141000 +0800" stop="20250808160000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年成都世界运动会-掷准飞盘第1轮</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807155000 +0800" stop="20250807180000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年男篮亚洲杯-小组赛（印度队-中国队）</title><desc lang="zh"></desc>
+<programme start="20250808160000 +0800" stop="20250808180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">运动一起赢</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807180000 +0800" stop="20250807200000 +0800" channel="CCTV5(4K)">
-<title lang="zh">体育新闻-成都世界运动会开幕式特别节目</title><desc lang="zh"></desc>
+<programme start="20250808180000 +0800" stop="20250808190500 +0800" channel="CCTV5(4K)">
+<title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807200000 +0800" stop="20250807213500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年成都世界运动会-开幕式</title><desc lang="zh"></desc>
+<programme start="20250808190500 +0800" stop="20250808211000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年男篮亚洲杯-小组赛（伊朗队-日本队）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807213500 +0800" stop="20250807220000 +0800" channel="CCTV5(4K)">
+<programme start="20250808211000 +0800" stop="20250808220000 +0800" channel="CCTV5(4K)">
+<title lang="zh">篮球公园</title><desc lang="zh"></desc>
+</programme>
+<programme start="20250808220000 +0800" stop="20250808230000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250807220000 +0800" stop="20250807230000 +0800" channel="CCTV5(4K)">
-<title lang="zh">足球之夜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20250807230000 +0800" stop="20250807235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年男篮亚洲杯-小组赛（菲律宾队-新西兰队）</title><desc lang="zh"></desc>
+<programme start="20250808230000 +0800" stop="20250808235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年男篮亚洲杯-小组赛（黎巴嫩队-澳大利亚队）</title><desc lang="zh"></desc>
 </programme>
 </tv>
