@@ -3,61 +3,64 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250818020500 +0800" stop="20250818023600 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年攀岩世界杯 印尼站 速度赛决赛</title><desc lang="zh"></desc>
+<programme start="20250819003500 +0800" stop="20250819010500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年攀岩世界杯 中国吴江站 速度赛决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818023600 +0800" stop="20250818040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title><desc lang="zh"></desc>
+<programme start="20250819010500 +0800" stop="20250819023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界田联钻石联赛  多哈站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818040000 +0800" stop="20250818053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-24-25赛季英超联赛第28轮 切尔西—莱斯特城（4K）</title><desc lang="zh"></desc>
+<programme start="20250819023600 +0800" stop="20250819040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818053000 +0800" stop="20250818060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title><desc lang="zh"></desc>
+<programme start="20250819040000 +0800" stop="20250819053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-24-25赛季法甲联赛第25轮 雷恩—巴黎圣日耳曼（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818060000 +0800" stop="20250818063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年三人篮球世界杯 1</title><desc lang="zh"></desc>
+<programme start="20250819053000 +0800" stop="20250819060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818063000 +0800" stop="20250818070000 +0800" channel="CCTV5(4K)">
+<programme start="20250819060000 +0800" stop="20250819063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年三人篮球世界杯 2</title><desc lang="zh"></desc>
+</programme>
+<programme start="20250819063000 +0800" stop="20250819070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818070000 +0800" stop="20250818090500 +0800" channel="CCTV5(4K)">
+<programme start="20250819070000 +0800" stop="20250819090500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818090500 +0800" stop="20250818103200 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆—伯恩利</title><desc lang="zh"></desc>
+<programme start="20250819090500 +0800" stop="20250819103200 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-25-26赛季法甲联赛第1轮 摩纳哥—勒阿弗尔</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818103200 +0800" stop="20250818120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年中国羽毛球公开赛 2</title><desc lang="zh"></desc>
+<programme start="20250819103200 +0800" stop="20250819120000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年中国羽毛球公开赛 3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818120000 +0800" stop="20250818130500 +0800" channel="CCTV5(4K)">
+<programme start="20250819120000 +0800" stop="20250819130500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818130500 +0800" stop="20250818132800 +0800" channel="CCTV5(4K)">
+<programme start="20250819130500 +0800" stop="20250819132800 +0800" channel="CCTV5(4K)">
 <title lang="zh">艺术里的奥林匹克(4K)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818132800 +0800" stop="20250818150000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界田联钻石联赛 西里西亚站</title><desc lang="zh"></desc>
+<programme start="20250819132800 +0800" stop="20250819150000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818150000 +0800" stop="20250818160000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年WTT欧洲大满贯 瑞典站 第一轮（录播）1</title><desc lang="zh"></desc>
+<programme start="20250819150000 +0800" stop="20250819160000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年WTT欧洲大满贯 瑞典站 第一轮（录播）2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818160000 +0800" stop="20250818180000 +0800" channel="CCTV5(4K)">
+<programme start="20250819160000 +0800" stop="20250819180000 +0800" channel="CCTV5(4K)">
 <title lang="zh">运动一起赢</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818180000 +0800" stop="20250818190000 +0800" channel="CCTV5(4K)">
+<programme start="20250819180000 +0800" stop="20250819190000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818190000 +0800" stop="20250818210000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年全国排球锦标赛-女排决赛</title><desc lang="zh"></desc>
+<programme start="20250819190000 +0800" stop="20250819193000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025/2026英格兰足球超级联赛-第1轮集锦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818210000 +0800" stop="20250818220000 +0800" channel="CCTV5(4K)">
-<title lang="zh">天下足球</title><desc lang="zh"></desc>
+<programme start="20250819193000 +0800" stop="20250819213000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025中国足协杯-半决赛（成都蓉城—河南俱乐部酒祖杜康）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818220000 +0800" stop="20250818230500 +0800" channel="CCTV5(4K)">
+<programme start="20250819213000 +0800" stop="20250819223500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250818230500 +0800" stop="20250818235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年男篮亚洲杯 三四名决赛</title><desc lang="zh"></desc>
+<programme start="20250819223500 +0800" stop="20250819235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年男篮亚洲杯 决赛</title><desc lang="zh"></desc>
 </programme>
 </tv>
