@@ -3,49 +3,55 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20250913010000 +0800" stop="20250913023100 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title><desc lang="zh"></desc>
+<programme start="20250914010500 +0800" stop="20250914023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界田联钻石联赛  巴黎站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913023100 +0800" stop="20250913040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title><desc lang="zh"></desc>
+<programme start="20250914023600 +0800" stop="20250914040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913040000 +0800" stop="20250913053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆—伯恩利</title><desc lang="zh"></desc>
+<programme start="20250914040000 +0800" stop="20250914053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-25-26赛季法甲联赛第2轮 马赛—巴黎</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913053000 +0800" stop="20250913060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 2</title><desc lang="zh"></desc>
+<programme start="20250914053000 +0800" stop="20250914060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913060000 +0800" stop="20250913062500 +0800" channel="CCTV5(4K)">
+<programme start="20250914060000 +0800" stop="20250914062500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913062500 +0800" stop="20250913090000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年世界田径锦标赛-男子35公里竞走、女子35公里竞走</title><desc lang="zh"></desc>
+<programme start="20250914062500 +0800" stop="20250914090000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年世界田径锦标赛-女子马拉松</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913090000 +0800" stop="20250913110000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年世界田径锦标赛-女子铁饼等多项预赛</title><desc lang="zh"></desc>
+<programme start="20250914090000 +0800" stop="20250914110000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年世界田径锦标赛-多项预赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913110000 +0800" stop="20250913113000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025/2026英格兰足球超级联赛-第3轮集锦</title><desc lang="zh"></desc>
+<programme start="20250914110000 +0800" stop="20250914113000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025/2026西班牙足球甲级联赛-第3轮集锦（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913113000 +0800" stop="20250913120000 +0800" channel="CCTV5(4K)">
+<programme start="20250914113000 +0800" stop="20250914120000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913120000 +0800" stop="20250913153300 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年WTT澳门冠军赛-1/4决赛1</title><desc lang="zh"></desc>
+<programme start="20250914120000 +0800" stop="20250914153000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年WTT澳门冠军赛-半决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913153300 +0800" stop="20250913170000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年美国网球公开赛 女单决赛</title><desc lang="zh"></desc>
+<programme start="20250914153000 +0800" stop="20250914170000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年世界职业拳王争霸赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913170000 +0800" stop="20250913174500 +0800" channel="CCTV5(4K)">
+<programme start="20250914170000 +0800" stop="20250914180000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913174500 +0800" stop="20250913213000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年世界田径锦标赛-女子10000米决赛等</title><desc lang="zh"></desc>
+<programme start="20250914180000 +0800" stop="20250914200000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年WTT澳门冠军赛-女单、男单决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913213000 +0800" stop="20250913233500 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年男排世锦赛-B组小组赛（波兰队-罗马尼亚队）</title><desc lang="zh"></desc>
+<programme start="20250914200000 +0800" stop="20250914213500 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年世界田径锦标赛-男子100米决赛等</title><desc lang="zh"></desc>
 </programme>
-<programme start="20250913233500 +0800" stop="20250913235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年男篮亚洲杯 1/4决赛2</title><desc lang="zh"></desc>
+<programme start="20250914213500 +0800" stop="20250914220000 +0800" channel="CCTV5(4K)">
+<title lang="zh">体坛零距离-2025-36(4K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20250914220000 +0800" stop="20250914221000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年皮划艇静水世锦赛  10分钟版</title><desc lang="zh"></desc>
+</programme>
+<programme start="20250914221000 +0800" stop="20250914235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025/2026西班牙足球甲级联赛第4轮-（莱万特-皇家贝蒂斯）</title><desc lang="zh"></desc>
 </programme>
 </tv>
