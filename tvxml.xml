@@ -3,64 +3,61 @@
 <channel id="CCTV5(4K)">
 <display-name lang="zh">CCTV5(4K)</display-name>
 </channel>
-<programme start="20251031000500 +0800" stop="20251031010500 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年皮划艇静水世锦赛  3</title><desc lang="zh"></desc>
+<programme start="20251101000500 +0800" stop="20251101010500 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年皮划艇激流回旋世界杯 斯洛文尼亚站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031010500 +0800" stop="20251031023600 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界羽毛球锦标赛  4</title><desc lang="zh"></desc>
+<programme start="20251101010500 +0800" stop="20251101023600 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界羽毛球锦标赛  5</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031023600 +0800" stop="20251031040000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title><desc lang="zh"></desc>
+<programme start="20251101023600 +0800" stop="20251101040000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031040000 +0800" stop="20251031053000 +0800" channel="CCTV5(4K)">
-<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联—伯恩利</title><desc lang="zh"></desc>
+<programme start="20251101040000 +0800" stop="20251101053000 +0800" channel="CCTV5(4K)">
+<title lang="zh">国际足球赛场-25-26赛季英超联赛第9轮 切尔西—桑德兰</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031053000 +0800" stop="20251031060000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界射箭锦标赛 1</title><desc lang="zh"></desc>
+<programme start="20251101053000 +0800" stop="20251101060000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界射箭锦标赛 2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031060000 +0800" stop="20251031063000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年三人篮球世界杯 7</title><desc lang="zh"></desc>
+<programme start="20251101060000 +0800" stop="20251101063000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年三人篮球世界杯 1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031063000 +0800" stop="20251031070000 +0800" channel="CCTV5(4K)">
+<programme start="20251101063000 +0800" stop="20251101070000 +0800" channel="CCTV5(4K)">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031070000 +0800" stop="20251031090000 +0800" channel="CCTV5(4K)">
+<programme start="20251101070000 +0800" stop="20251101075500 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛晨报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031090000 +0800" stop="20251031110000 +0800" channel="CCTV5(4K)">
-<title lang="zh">第十五届全国运动会 沙滩排球-女子小组赛1</title><desc lang="zh"></desc>
+<programme start="20251101075500 +0800" stop="20251101104000 +0800" channel="CCTV5(4K)">
+<title lang="zh">现场直播-2025年西昌邛海湿地马拉松</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031110000 +0800" stop="20251031120000 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年WTT蒙彼利埃冠军赛 1/8决赛（录播）</title><desc lang="zh"></desc>
+<programme start="20251101104000 +0800" stop="20251101123000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025/2026赛季美国职业篮球联赛-杯赛小组赛（掘金-开拓者）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031120000 +0800" stop="20251031130500 +0800" channel="CCTV5(4K)">
+<programme start="20251101123000 +0800" stop="20251101133000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体坛快讯</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031130500 +0800" stop="20251031132800 +0800" channel="CCTV5(4K)">
-<title lang="zh">艺术里的奥林匹克(4K)</title><desc lang="zh"></desc>
+<programme start="20251101133000 +0800" stop="20251101153000 +0800" channel="CCTV5(4K)">
+<title lang="zh">第十五届全国运动会 排球-男子20岁以下组小组赛1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031132800 +0800" stop="20251031150000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025/2026西班牙足球甲级联赛-第10轮（毕尔巴鄂竞技—赫塔费）</title><desc lang="zh"></desc>
+<programme start="20251101153000 +0800" stop="20251101160000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025/2026英格兰足球超级联赛-第9轮集锦（4K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031150000 +0800" stop="20251031160000 +0800" channel="CCTV5(4K)">
-<title lang="zh">篮球公园</title><desc lang="zh"></desc>
+<programme start="20251101160000 +0800" stop="20251101180000 +0800" channel="CCTV5(4K)">
+<title lang="zh">第十五届全国运动会 足球-男子20岁以下组小组赛（辽宁队—广东队）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031160000 +0800" stop="20251031173000 +0800" channel="CCTV5(4K)">
-<title lang="zh">运动一起赢</title><desc lang="zh"></desc>
-</programme>
-<programme start="20251031173000 +0800" stop="20251031175500 +0800" channel="CCTV5(4K)">
+<programme start="20251101180000 +0800" stop="20251101190000 +0800" channel="CCTV5(4K)">
 <title lang="zh">体育新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031175500 +0800" stop="20251031200000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025中国足球超级联赛-第29轮（上海海港-浙江俱乐部绿城）</title><desc lang="zh"></desc>
+<programme start="20251101190000 +0800" stop="20251101193000 +0800" channel="CCTV5(4K)">
+<title lang="zh">实况录像-2025年世界体操锦标赛 单项决赛 3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031200000 +0800" stop="20251031220000 +0800" channel="CCTV5(4K)">
-<title lang="zh">2025年WTT蒙彼利埃冠军赛-1/8决赛</title><desc lang="zh"></desc>
+<programme start="20251101193000 +0800" stop="20251101213000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025江苏省城市足球联赛-决赛（南通队—泰州队）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031220000 +0800" stop="20251031230500 +0800" channel="CCTV5(4K)">
-<title lang="zh">体育世界</title><desc lang="zh"></desc>
+<programme start="20251101213000 +0800" stop="20251101230000 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025年WTT蒙彼利埃冠军赛-1/4决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20251031230500 +0800" stop="20251031235900 +0800" channel="CCTV5(4K)">
-<title lang="zh">实况录像-2025年世界举重锦标赛 男子71公斤级决赛</title><desc lang="zh"></desc>
+<programme start="20251101230000 +0800" stop="20251101235900 +0800" channel="CCTV5(4K)">
+<title lang="zh">2025/2026英格兰足球超级联赛-第10轮（诺丁汉森林—曼联）</title><desc lang="zh"></desc>
 </programme>
 </tv>
